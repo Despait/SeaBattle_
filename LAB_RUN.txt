@@ -1,0 +1,2 @@
+Run: python -m unittest discover -v
+Tests cover miss, hit, sunk, bounds, repeated actions and ammunition.
